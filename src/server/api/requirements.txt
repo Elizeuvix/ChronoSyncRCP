@@ -1,5 +1,0 @@
-# FastAPI requirements
-fastapi
-uvicorn
-python-dotenv
-pydantic
